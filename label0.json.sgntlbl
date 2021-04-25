@@ -1,0 +1,21 @@
+{
+  "content": [
+    "Dr Krunkenstien's Laboratory",
+    {
+      "table": {
+        "body": [
+          [
+            "Name",
+            "Category",
+            "Column 3"
+          ],
+          [
+            "${Name}",
+            "${ProductCategoryName}",
+            "OK?"
+          ]
+        ]
+      }
+    }
+  ]
+}
